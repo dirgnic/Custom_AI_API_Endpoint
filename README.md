@@ -1,2 +1,2 @@
 # Character AI Router
-A backend-only Character-AI-like router app with LoRA fine-tuning, vector memory, and prompt templating.
+An LLM API router app with LoRA fine-tuning, vector memory, and prompt templating for custom personas.
